@@ -170,6 +170,7 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# Add dataset related files
+# Add dataset-related files
 afad_dataset.tar.xz
 AFAD-Full/
+metadata
