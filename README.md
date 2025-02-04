@@ -10,7 +10,7 @@ The goal of this project is to build a binary age classifier that predicts wheth
 - Model evaluation
 
 ## Running the Classifier
-The classification system is implemented in the `age_classifier.ipynb` Jupyter Notebook. Since all required steps, including dataset preparation and model training, are self-contained within the notebook, no additional setup or dependencies are needed.
+The classification system is implemented in the `age_classifier.ipynb` file.
 
 ### Running the Notebook
 You can run the notebook in:
@@ -18,7 +18,7 @@ You can run the notebook in:
 - **Kaggle Notebooks** 
 
 ## Requirements
-No explicit dependency installation is required, as the notebook is designed to be run in Jupyter Notebook or Kaggle, which provide pre-installed dependencies.
+No explicit dependency installation is required, as the notebook is designed to be run in Google Colab or Kaggle, which provide pre-installed dependencies.
 
 ## Author
 Rizki Rivai Ginanjar, qivaijar@gmail.com.
