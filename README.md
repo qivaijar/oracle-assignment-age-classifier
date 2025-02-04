@@ -14,8 +14,8 @@ The classification system is implemented in the `age_classifier.ipynb` Jupyter N
 
 ### Running the Notebook
 You can run the notebook in:
-- **Google Colab** (locally)
-- **Kaggle Notebooks** (online)
+- **Google Colab** 
+- **Kaggle Notebooks** 
 
 ## Requirements
 No explicit dependency installation is required, as the notebook is designed to be run in Jupyter Notebook or Kaggle, which provide pre-installed dependencies.
