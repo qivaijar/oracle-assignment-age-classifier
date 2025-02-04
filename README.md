@@ -1,1 +1,24 @@
-# age-classifier
+# Oracle Assignment - Binary Age Classifier
+
+This repository contains the Oracle technical assessment: binary age classification for Singaporean individuals. The project is implemented using PyTorch framework, on a jupyter notebook file, which includes all steps from dataset curation to model evaluation.
+
+## Project Overview
+The goal of this project is to build a binary age classifier that predicts whether an individual is under 18 years old or not based on the facial image. The process involves:
+- Dataset curation
+- Data preprocessing
+- Model training
+- Model evaluation
+
+## Running the Classifier
+The classification system is implemented in the `age_classifier.ipynb` Jupyter Notebook. Since all required steps, including dataset preparation and model training, are self-contained within the notebook, no additional setup or dependencies are needed.
+
+### Running the Notebook
+You can run the notebook in:
+- **Google Colab** (locally)
+- **Kaggle Notebooks** (online)
+
+## Requirements
+No explicit dependency installation is required, as the notebook is designed to be run in Jupyter Notebook or Kaggle, which provide pre-installed dependencies.
+
+## Author
+Rizki Rivai Ginanjar, qivaijar@gmail.com.
