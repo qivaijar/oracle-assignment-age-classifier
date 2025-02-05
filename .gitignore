@@ -174,3 +174,4 @@ cython_debug/
 afad_dataset.tar.xz
 AFAD-Full/
 metadata
+.vscode
