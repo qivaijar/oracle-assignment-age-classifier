@@ -14,7 +14,11 @@ matplotlib = "^3.10.0"
 tqdm = "^4.67.1"
 scikit-learn = "^1.6.1"
 torchvision = "^0.21.0"
+gradio = "^5.15.0"
 
+
+[tool.poetry.group.dev.dependencies]
+black = {version = "^25.1.0", allow-prereleases = true}
 
 [build-system]
 requires = ["poetry-core"]
